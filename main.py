@@ -1,6 +1,6 @@
 from data import get_questions
 from question_model import TF_Question, Mul_Question
-from quiz_brain_mul import QuizBrain
+from quiz_brain import QuizBrain
 
 def play_quiz():
     while True:
